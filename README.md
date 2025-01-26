@@ -17,7 +17,13 @@ Usos más comunes:
 
 git commit - m establece un mensaje para el commit.
 
-Configuración del correo remoto y local
-![image](https://github.com/EmilyNorena/Lab1-Git/blob/main/assets/2.png)
-![image](https://github.com/EmilyNorena/Lab1-Git/blob/main/assets/12.png)
+### Configuración del correo remoto y local
+<figure>
+  <img src="https://github.com/EmilyNorena/Lab1-Git/blob/main/assets/2.png" alt="Enlace con el correo institucional." />
+  <figcaption>Enlace remoto con el correo institucional.</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/EmilyNorena/Lab1-Git/blob/main/assets/12.png" alt="Enlace con el correo institucional." />
+  <figcaption>Enlace local con el correo institucional.</figcaption>
+</figure>
 
