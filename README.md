@@ -40,5 +40,8 @@ git commit - m establece un mensaje para el commit.
 </div>
 <div align="center"><figcaption>Añadimos el archivo readme.</figcaption></div>
 2. Realizamos el paso anterior pero ahora con la carpeta assets, que contiene las imagenes del archivo readme.
-3. Ya que habian imagenes repetidas en la carpeta assets, borramos dichas imagenes 
+3. Ya que habian imagenes repetidas en la carpeta assets, borramos dichas imagenes localmente e hicimos un commit para que se viera reflejado en el repositorio remoto.
+<div align="center">
+  <img src="https://github.com/EmilyNorena/Lab1-Git/blob/main/assets/12.png" alt="Imagenes borradas." width="650px"/>
+</div>
 
